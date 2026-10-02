@@ -6,8 +6,11 @@ White balance, and HDR,
 Solar and coronal image processing.
 
 Currently, v26
-for the windows ImageConvPlus26e.exe file
+for the windows ImageConvPlus26e.exe files:
 https://drive.google.com/drive/folders/1T7OMXdHvT4pyZAeBIQVW729zTh__bbpT?usp=drive_link
+
+Description in web page:
+https://helloshiau.blogspot.com/2026/07/my-web-pages-and-web-browser-apps.html
 
 For suggestion, email:
 helloshiau@gmail.com

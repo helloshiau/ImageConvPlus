@@ -1,12 +1,12 @@
-ImageConvPlus20
+ImageConvPlus26e
 
 Image Processing Tools, including: negative, sharp, edge filter, Sobel filter, pixel x1.2, color to gray,
 histogram adjustment, Star Enhancement, Star Contrast Enhancement, FFT,
 White balance, and HDR, 
 Solar and coronal image processing.
 
-Currently, v20
-for the windows ImageConv11e.exe file
+Currently, v26
+for the windows ImageConvPlus26e.exe file
 https://drive.google.com/drive/folders/1T7OMXdHvT4pyZAeBIQVW729zTh__bbpT?usp=drive_link
 
 For suggestion, email:
@@ -15,3 +15,4 @@ helloshiau@gmail.com
 2026-05-17
 2026-06-02
 2026-06-19
+2026-10-02
